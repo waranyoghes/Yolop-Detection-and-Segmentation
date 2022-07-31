@@ -2,7 +2,7 @@
 ###### This repo contains the code for the detection and segmentation using a single network.
 ##### Network Details
 ###### The network developed in this repo is a model based on the YOLOP paper. (https://arxiv.org/pdf/2108.11250.pdf).  
-Please note that this is not the exact replica of the model. It is developed based on my understanding of the paper.
+##### Please note that this is not the exact replica of the model. It is developed based on my understanding of the paper.
 ##### Netwok structure:
 ![image](https://user-images.githubusercontent.com/73269696/180720374-bb42f26e-3bfc-4116-9299-d0f09cbcb7bd.png)
 
